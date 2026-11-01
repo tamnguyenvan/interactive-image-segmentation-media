@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Interactive Image Segmentation API icon">
+  <title>Interactive Image Segmentation API</title>
+  <rect width="512" height="512" rx="112" fill="#0462D3"/>
+  <g fill="none" stroke="#F8FBFE" stroke-width="22" stroke-linecap="round">
+    <path d="M136 184v-28c0-11 9-20 20-20h28"/>
+    <path d="M328 136h28c11 0 20 9 20 20v28"/>
+    <path d="M376 328v28c0 11-9 20-20 20h-28"/>
+    <path d="M184 376h-28c-11 0-20-9-20-20v-28"/>
+  </g>
+  <circle cx="256" cy="256" r="94" fill="#F8FBFE"/>
+  <circle cx="322" cy="190" r="42" fill="#0462D3"/>
+  <circle cx="256" cy="256" r="26" fill="#0462D3"/>
+</svg>
