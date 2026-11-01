@@ -4,9 +4,9 @@ Promo video and before/after examples for the Interactive Image Segmentation API
 
 ## Promo video
 
-[![Click-to-mask image segmentation demo](https://raw.githubusercontent.com/tamnguyenvan/interactive-image-segmentation-media/main/promo/interactive-image-segmentation-promo.gif)](https://raw.githubusercontent.com/tamnguyenvan/interactive-image-segmentation-media/main/promo/interactive-image-segmentation-promo.mp4)
+[![Click-to-mask image segmentation demo](https://raw.githubusercontent.com/tamnguyenvan/interactive-image-segmentation-media/main/promo/interactive-image-segmentation-promo.gif)](https://github.com/tamnguyenvan/interactive-image-segmentation-media/blob/main/promo/interactive-image-segmentation-promo.mp4)
 
-[Watch the 8-second MP4](https://raw.githubusercontent.com/tamnguyenvan/interactive-image-segmentation-media/main/promo/interactive-image-segmentation-promo.mp4)
+[Watch the 8-second MP4](https://github.com/tamnguyenvan/interactive-image-segmentation-media/blob/main/promo/interactive-image-segmentation-promo.mp4)
 
 The demo shows an image being selected with a dragged line of positive points, followed by the returned mask.
 
