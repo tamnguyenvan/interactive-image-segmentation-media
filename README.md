@@ -8,7 +8,7 @@ Promo video and before/after examples for the Interactive Image Segmentation API
 
 [Watch the 8-second MP4](https://github.com/tamnguyenvan/interactive-image-segmentation-media/blob/main/promo/interactive-image-segmentation-promo.mp4)
 
-The demo shows an image being selected with a dragged line of positive points, followed by the returned mask.
+The demo shows an image being selected with a dragged line of positive points, followed by the returned mask. The API accepts up to 200 points per request.
 
 ## Examples
 
